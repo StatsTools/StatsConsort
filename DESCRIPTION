@@ -1,7 +1,7 @@
 Package: StatsConsort
 Type: Package
 Title: Streamline CONSORT Flow Diagrams for Clinical Trials
-Version: 1.0.0
+Version: 1.1.0
 Author: Pedro Henrique Theotonio de Mesquita Pacheco
 Maintainer: Pedro Henrique Theotonio de Mesquita Pacheco <pedrohmp36@gmail.com>
 Description: StatsConsort is an R package designed to streamline the creation of

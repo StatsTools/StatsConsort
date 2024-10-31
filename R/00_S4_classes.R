@@ -1,4 +1,6 @@
-setOldClass('gg')
+if (is.null(getClassDef("gg"))) {
+  setOldClass("gg")
+}
 
 # S4 Class 'Box' ---------------------------------------------------------------
 
